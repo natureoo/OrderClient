@@ -9,6 +9,7 @@ import java.nio.file.Paths;
  * @author nature
  * @date 28/5/2022 9:31 上午
  * @email 924943578@qq.com
+ * fabric gateway 1.x
  */
 public class GatewayClient {
     //创建 SingleObject 的一个对象

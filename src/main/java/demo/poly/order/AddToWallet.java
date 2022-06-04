@@ -9,6 +9,7 @@ import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 
+//fabric gateway 1.x
 public class AddToWallet {
 
 
